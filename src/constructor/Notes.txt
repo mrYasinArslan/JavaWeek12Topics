@@ -1,0 +1,2 @@
+Constructor:Special method , it is a Must for a class, it mght bve used to initalize your fileds
+Object: new ClassName -------> we are invoking /calling the constructor
